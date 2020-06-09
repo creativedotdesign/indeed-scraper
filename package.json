@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "timeago-reverse": "^1.0.10"
   },
   "devDependencies": {
     "husky": "^4.2.3",
