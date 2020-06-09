@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
+    "dateformat": "^3.0.3",
     "request": "^2.79.0",
     "timeago-reverse": "^1.0.10"
   },
